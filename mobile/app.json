@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "UAE Car Super-App",
+    "slug": "uae-car-super-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.uae.cargo.superapp"
+    },
+    "android": {
+      "package": "com.uae.cargo.superapp"
+    },
+    "extra": {
+      "apiUrl": "${EXPO_PUBLIC_API_URL}"
+    }
+  }
+}
+

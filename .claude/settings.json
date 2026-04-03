@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 \"C:\\\\Users\\\\Mohammad Arsh\\\\.claude\\\\plugins\\\\marketplaces\\\\ui-ux-pro-max-skill\\\\.claude\\\\skills\\\\ui-ux-pro-max\\\\scripts\\\\search.py\" \"car service marketplace UAE mobile app modern premium\" --design-system -p \"CarGo\")",
+      "Bash(py -3 \"C:\\\\Users\\\\Mohammad Arsh\\\\.claude\\\\plugins\\\\marketplaces\\\\ui-ux-pro-max-skill\\\\.claude\\\\skills\\\\ui-ux-pro-max\\\\scripts\\\\search.py\" \"car service marketplace UAE mobile app modern premium\" --design-system -p \"CarGo\")",
+      "Read(//c/Users/Mohammad Arsh/.claude/plugins/marketplaces/ui-ux-pro-max-skill/**)"
+    ]
+  }
+}

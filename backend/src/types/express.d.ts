@@ -1,0 +1,17 @@
+declare global {
+  namespace Express {
+    interface UserPayload {
+      userId: string;
+      email: string;
+      role: string;
+    }
+  }
+}
+
+declare module "express-serve-static-core" {
+  interface Request {
+    user?: Express.UserPayload;
+  }
+}
+
+export {};
